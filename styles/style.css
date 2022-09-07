@@ -208,23 +208,25 @@
   padding: 90px 0;
   position: relative;
   overflow: hidden;
-  color: white;
 }
 
 .section-title_theme_dark {
   position: relative;
   z-index: 1;
+  color: white;
 }
 
 .section-subtitle_theme_dark {
   position: relative;
   z-index: 1;
+  color: white;
 }
 
 .table_theme_dark {
   z-index: 1;
   position: relative;
   margin: 0 auto;
+  color: white;
 }
 
 .table__cell_theme_dark {
