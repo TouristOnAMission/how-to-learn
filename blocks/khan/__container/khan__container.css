@@ -1,0 +1,6 @@
+@import url(../blocks/khan/__container/khan__container.css);
+
+.khan__container {
+  margin: auto;
+  width: 80%;
+}

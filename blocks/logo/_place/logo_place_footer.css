@@ -1,0 +1,5 @@
+@import url(../blocks/logo/_place/logo_place_footer.css);
+
+.logo_place_footer {
+  background-image: url(../../../images/logo_place_footer.svg);
+}

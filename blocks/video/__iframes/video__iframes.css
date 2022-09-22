@@ -1,0 +1,8 @@
+@import url(../blocks/video/__iframes/video__iframes.css);
+
+.video__iframes {
+  display: flex;
+  position: relative;
+  top: 50px;
+  justify-content: center;
+}

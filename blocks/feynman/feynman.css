@@ -1,0 +1,11 @@
+@import url(../blocks/feynman/feynman.css);
+
+.feynman {
+  background: #F2F2F2 url(../../images/feynman.png) no-repeat bottom left;
+  background-size: 867px 637px;
+  background-color: #F2F2F2;
+  position: relative;
+  min-height: 890px;
+  padding-top: 100px;
+  box-sizing: border-box;
+}

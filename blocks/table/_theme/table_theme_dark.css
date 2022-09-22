@@ -1,0 +1,8 @@
+@import url(../blocks/table/_theme/table_theme_dark.css);
+
+.table_theme_dark {
+  z-index: 1;
+  position: relative;
+  margin: 0 auto;
+  color: white;
+}
