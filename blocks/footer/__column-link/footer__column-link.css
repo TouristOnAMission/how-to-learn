@@ -1,9 +1,6 @@
 .footer__column-link {
   text-decoration: none;
   color: white;
-  width: 10px;
-  flex-direction: row;
-  display: flex;
   transition: opacity .5s linear;
 }
 
