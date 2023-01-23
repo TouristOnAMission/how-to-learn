@@ -1,5 +1,5 @@
 # Научиться учиться
-[Проект](https://touristonamission.github.io/how-to-learn/)
+[Проект](https://sdlmdev.github.io/how-to-learn/)
 
 ## Описание
 Проектная работа курса «Веб-разработчик» от «Яндекс Практикум».
